@@ -1,4 +1,4 @@
-package com.mykolyk.gofpatternsimplementation.factorymethod;
+package com.mykolyk.gofpatternsimplementation.creational.factorymethod;
 
 public class JavaDeveloperFactory implements DeveloperFactory {
     @Override

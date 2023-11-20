@@ -1,4 +1,4 @@
-package com.mykolyk.gofpatternsimplementation.factorymethod;
+package com.mykolyk.gofpatternsimplementation.creational.factorymethod;
 
 public class CppDeveloperFactory implements DeveloperFactory {
     @Override
